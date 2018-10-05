@@ -1,1 +1,1 @@
-This is the first issue to create docker for lumen and PHP 7.2
+sudo docker-compose exec api-php composer global require "laravel/lumen-installer"
